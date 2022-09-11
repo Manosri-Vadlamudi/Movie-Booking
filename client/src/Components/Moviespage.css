@@ -1,0 +1,13 @@
+.movies-list{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.movie{
+    margin: 50px;
+}
+.menu-options{
+    position: fixed;
+    right:10px;
+    top:20px;
+}
